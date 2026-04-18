@@ -8,9 +8,11 @@ By Elchay Avraham
 
 ## Results
 ### Part B: Random Arrays
+![Random Experiment Results](result1.png)
 In `result1.png`, we can see that as the array size increases, Insertion Sort's execution time grows quadratically, while Merge and Quick sort remain significantly more efficient.
 
 ### Part C: Nearly Sorted Arrays
+![Nearly Sorted Experiment Results](result2.png)
 In `result2.png`, we compared the algorithms on arrays with 5% and 20% noise. We observed that Insertion Sort performs much better on nearly sorted data compared to random data.
 
 ## How to Run
